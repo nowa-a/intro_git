@@ -7,3 +7,5 @@ GITの練習をします
 
 ・git status
 ・git diff
+
+・git --amend 
