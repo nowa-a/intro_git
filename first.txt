@@ -6,3 +6,4 @@ GITの練習をします
 ・git diff
 
 ・git status
+・git diff
