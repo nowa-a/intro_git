@@ -9,3 +9,6 @@ GITの練習をします
 ・git diff
 
 ・git --amend 
+
+・git marge
+
