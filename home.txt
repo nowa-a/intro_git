@@ -2,3 +2,5 @@ home
 pull
 fetchサンプル
 手元で追記してコミット
+GitHub上で追記
+
