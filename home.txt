@@ -1,3 +1,4 @@
 home
 pull
 fetchサンプル
+手元で追記してコミット
